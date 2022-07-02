@@ -1,0 +1,267 @@
+#wave {
+	background-image: url(../assets/onda.png);
+	background-position: bottom;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 550px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	filter: blur(1px);
+	-webkit-filter: blur(1px);
+	z-index: -1;
+}
+
+body {
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+	font-family: 'Archivo', sans-serif;
+}
+
+nav {
+	margin-top: 25px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 19px;
+	flex-flow: row;
+}
+
+nav a {
+	margin: 10px;
+	color: #265b7a;
+	font-weight: 600;
+	text-decoration: none;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+nav a:hover {
+	color: #357194;
+}
+
+nav a div {
+	height: 25px;
+}
+
+.hovered-nav-el {
+	border-bottom: 2px solid #3d789b;
+}
+
+main {
+	margin-top: 30px;
+	display: flex;
+	justify-content: center;
+}
+
+main #app {
+	flex: 0.5;
+}
+
+.logo-nav {
+	height: 50px;
+	margin-top: -5px;
+}
+
+.make-a-report-page .map {
+	display: flex;
+	flex-flow: column;
+	flex: 2.75;
+	margin-right: 30px;
+}
+
+.make-a-report-page .map h2 {
+	font-size: 17.5px;
+	color: #216083;
+	margin-left: 10px;
+}
+
+.make-a-report-page .map img {
+	height: 700px;
+	border-radius: 15px;
+	box-shadow: 0px 0px 4px 1px #dbdbfa;
+}
+
+.make-a-report-page {
+	display: flex;
+	flex-flow: row;
+}
+
+.make-a-report-page .form {
+	flex: 1;
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+	margin-top: 35px;
+	padding: 10px;
+}
+
+.make-a-report-page .form .input-cont {
+	display: flex;
+	flex-flow: column;
+	margin-bottom: 25px;
+}
+
+.make-a-report-page .form .input-cont span {
+	color: #116494;
+	margin-left: 5px;
+	font-weight: 600;
+	margin-bottom: 5px;
+	font-size: 15px;
+}
+
+.make-a-report-page .form .input-cont .text-area {
+	padding-bottom: 100px;
+}
+
+.login-page {
+	display: flex;
+	flex-flow: row;
+	color: #0e4b6f;
+}
+
+.login {
+	text-align: center;
+	flex: 1;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+.signup {
+	text-align: center;
+	margin-right: 100px;
+	margin-left: 100px;
+	flex: 1;
+}
+
+.input {
+	color: #e5e5e5;
+	margin-bottom: 15px;
+	text-align: left;
+	padding: 12.5px;
+	font-size: 15px;
+	font-weight: 600;
+	width: 100%;
+	border: 1px solid #116494;
+	border-radius: 5px;
+	cursor: text;
+	background: white;
+}
+
+.button {
+	text-align: center;
+	color: white;
+	background: #216083;
+	padding: 12.5px;
+	transition: 0.25s;
+	font-weight: 500;
+	width: 100%;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.button:hover {
+	background: #266d94;
+}
+
+#bot {
+	position: fixed;
+	width: 75px;
+	height: 75px;
+	right: 50px;
+	bottom: 50px;
+	background-image: url('../assets/bot.png');
+	background-size: cover;
+	opacity: 0.85;
+	transition: 0.2s;
+	border: none !important;
+}
+
+#bot:hover {
+	opacity: 1;
+	cursor: pointer;
+}
+
+.reports-page {
+	display: flex;
+	flex-flow: column;
+}
+
+.reports {
+	display: flex;
+	flex-flow: column;
+}
+
+.report {
+	display: flex;
+	flex-flow: row;
+	height: 500px;
+	margin-bottom: 50px;
+}
+
+.report .report-img {
+	border-radius: 5px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	flex: 1;
+}
+
+.report .report-text {
+	margin-top: -30px;
+	margin-left: 10px;
+	padding: 15px;
+	display: flex;
+	flex-flow: column;
+	flex: 0.65;
+}
+
+.star {
+	width: 50px;
+	height: 50px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-left: 5px;
+	cursor: pointer;
+	flex: 1;
+}
+
+.report-text .text-area {
+	color: #116494;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.report-text h3 {
+	color: #116494;
+}
+
+.stars {
+	display: flex;
+	margin-bottom: 15px;
+	flex-flow: row;
+	justify-content: center;
+}
+
+.report-1 {
+	background-image: url('../assets/reports/1.jpg');
+}
+
+.report-2 {
+	background-image: url('../assets/reports/2.jpg');
+}
+
+.report-3 {
+	background-image: url('../assets/reports/3.jpg');
+}
+
+.star-y {
+	background-image: url('../assets/star_y.png');
+}
+
+.star-n {
+	background-image: url('../assets/star_n.png');
+}
