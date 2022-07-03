@@ -4,7 +4,7 @@
 body {
 	font-size: 14px;
 }
-.v13_19 {
+.hybro-consumi-1 {
 	width: 100%;
 	height: 822px;
 	opacity: 1;
@@ -13,10 +13,10 @@ body {
 	left: 0px;
 	overflow: hidden;
 }
-.v13_20 {
+.hybro-consumi-2 {
 	width: 976px;
 	height: 40px;
-	background: url('../images/v13_20.png');
+	background: url('../assets/vhybro-consumi-2.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -26,10 +26,10 @@ body {
 	left: 224px;
 	overflow: hidden;
 }
-.v13_21 {
+.hybro-consumi-3 {
 	width: 120px;
 	height: 21px;
-	background: url('../images/v13_21.png');
+	background: url('../assets/hybro-consumi-3.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -39,7 +39,7 @@ body {
 	left: 473px;
 	overflow: hidden;
 }
-.v13_22 {
+.hybro-consumi-4 {
 	width: 120px;
 	height: 2px;
 	background: rgba(39, 85, 117, 1);
@@ -53,7 +53,7 @@ body {
 	border-bottom-right-radius: 4px;
 	overflow: hidden;
 }
-.v13_23 {
+.hybro-consumi-5 {
 	width: 112px;
 	color: rgba(39, 85, 117, 1);
 	position: absolute;
@@ -65,7 +65,7 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_25 {
+.hybro-consumi-6 {
 	width: 96px;
 	color: rgba(22, 48, 66, 1);
 	position: absolute;
@@ -77,7 +77,7 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_26 {
+.hybro-consumi-7 {
 	width: 42px;
 	color: rgba(22, 48, 66, 1);
 	position: absolute;
@@ -89,7 +89,7 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_27 {
+.hybro-consumi-8 {
 	width: 86px;
 	color: rgba(22, 48, 66, 1);
 	position: absolute;
@@ -101,7 +101,7 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_28 {
+.hybro-consumi-9 {
 	width: 70px;
 	color: linear-gradient(rgba(32, 68, 94, 1), rgba(39, 85, 117, 1));
 	position: absolute;
@@ -113,10 +113,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_29 {
+.hybro-consumi-10 {
 	width: 118px;
 	height: 40px;
-	background: url('../images/v13_29.png');
+	background: url('../assets/hybro-consumi-10.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -126,10 +126,10 @@ body {
 	left: 0px;
 	overflow: hidden;
 }
-.v13_30 {
+.hybro-consumi-11 {
 	width: 118px;
 	height: 40px;
-	background: url('../images/v13_30.png');
+	background: url('../assets/hybro-consumi-11.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -139,10 +139,10 @@ body {
 	left: 0px;
 	overflow: hidden;
 }
-.v13_31 {
+.hybro-consumi-12 {
 	width: 27px;
 	height: 40px;
-	background: url('../images/v13_31.png');
+	background: url('../assets/hybro-consumi-12.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -152,10 +152,10 @@ body {
 	left: 0px;
 	overflow: hidden;
 }
-.v13_32 {
+.hybro-consumi-14 {
 	width: 27px;
 	height: 40px;
-	background: url('../images/v13_32.png');
+	background: url('../assets/hybro-consumi-14.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -165,10 +165,10 @@ body {
 	left: 0px;
 	overflow: hidden;
 }
-.v13_33 {
+.hybro-consumi-13 {
 	width: 27px;
 	height: 40px;
-	background: url('../images/v13_33.png');
+	background: url('../assets/hybro-consumi-13.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -178,7 +178,7 @@ body {
 	left: 0px;
 	overflow: hidden;
 }
-.v13_34 {
+.hybro-consumi-15 {
 	width: 27px;
 	height: 40px;
 	background: rgba(177, 225, 255, 1);
@@ -187,7 +187,7 @@ body {
 	top: 0px;
 	left: 0px;
 }
-.v13_35 {
+.hybro-consumi-16 {
 	width: 27px;
 	height: 15px;
 	background: linear-gradient(rgba(62, 113, 222, 1), rgba(80, 175, 244, 1));
@@ -196,7 +196,7 @@ body {
 	top: 24px;
 	left: 1px;
 }
-.v13_36 {
+.hybro-consumi-17 {
 	width: 27px;
 	height: 15px;
 	background: rgba(39, 85, 117, 1);
@@ -205,7 +205,7 @@ body {
 	top: 25px;
 	left: 1px;
 }
-.v13_37 {
+.hybro-consumi-18 {
 	width: 81px;
 	color: linear-gradient(rgba(32, 68, 94, 1), rgba(39, 85, 117, 1));
 	position: absolute;
@@ -217,10 +217,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v24_269 {
+.hybro-consumi-19 {
 	width: 100%;
 	height: 251px;
-	background: url('../images/v24_269.png');
+	background: url('../assets/hybro-consumi-19.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -230,7 +230,7 @@ body {
 	left: 0px;
 	overflow: hidden;
 }
-.v13_39 {
+.hybro-consumi-20 {
 	width: 229px;
 	color: rgba(39, 85, 117, 1);
 	position: absolute;
@@ -242,7 +242,7 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_40 {
+.hybro-consumi-21 {
 	width: 229px;
 	color: rgba(39, 85, 117, 1);
 	position: absolute;
@@ -254,10 +254,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_41 {
+.hybro-consumi-22 {
 	width: 940px;
 	height: 78px;
-	background: url('../images/v13_41.png');
+	background: url('../assets/hybro-consumi-22.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -267,17 +267,17 @@ body {
 	left: 246px;
 	overflow: hidden;
 }
-.v13_42 {
+.hybro-consumi-23 {
 	width: 940px;
 	height: 78px;
-	background: url('../images/v13_42.png');
+	background: url('../assets/hybro-consumi-23.png');
 	opacity: 1;
 	position: absolute;
 	top: 0px;
 	left: 0px;
 	border: 1px solid rgba(39, 85, 117, 1);
 }
-.v13_43 {
+.hybro-consumi-24 {
 	width: 708px;
 	height: 76px;
 	background: linear-gradient(rgba(39, 85, 117, 1), rgba(177, 225, 255, 1));
@@ -286,7 +286,7 @@ body {
 	top: 1px;
 	left: 0px;
 }
-.v13_44 {
+.hybro-consumi-25 {
 	width: 460px;
 	color: rgba(255, 255, 255, 1);
 	position: absolute;
@@ -298,7 +298,7 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_45 {
+.hybro-consumi-26 {
 	width: 52px;
 	color: rgba(177, 225, 255, 1);
 	position: absolute;
@@ -310,7 +310,7 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_46 {
+.hybro-consumi-27 {
 	width: 52px;
 	color: rgba(177, 225, 255, 1);
 	position: absolute;
@@ -322,10 +322,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_47 {
+.hybro-consumi-28 {
 	width: 217px;
 	height: 215px;
-	background: url('../images/v13_47.png');
+	background: url('../assets/hybro-consumi-28.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -335,7 +335,7 @@ body {
 	left: 501px;
 	overflow: hidden;
 }
-.v13_48 {
+.hybro-consumi-29 {
 	width: 217px;
 	height: 215px;
 	background: rgba(237, 247, 255, 1);
@@ -350,10 +350,10 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v13_49 {
+.hybro-consumi-30 {
 	width: 98px;
 	height: 98px;
-	background: url('../images/v13_49.png');
+	background: url('../assets/hybro-consumi-30.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -363,7 +363,7 @@ body {
 	left: 61px;
 	overflow: hidden;
 }
-.v13_50 {
+.hybro-consumi-31 {
 	width: 134px;
 	color: rgba(39, 85, 117, 1);
 	position: absolute;
@@ -375,10 +375,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_51 {
+.hybro-consumi-32 {
 	width: 50px;
 	height: 50px;
-	background: url('../images/v13_51.png');
+	background: url('../assets/hybro-consumi-32.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -388,7 +388,7 @@ body {
 	left: 140px;
 	overflow: hidden;
 }
-.v13_52 {
+.hybro-consumi-33 {
 	width: 50px;
 	height: 50px;
 	background: rgba(255, 255, 255, 1);
@@ -403,7 +403,7 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v13_53 {
+.hybro-consumi-34 {
 	width: 25px;
 	color: rgba(39, 85, 117, 1);
 	position: absolute;
@@ -415,10 +415,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_54 {
+.hybro-consumi-35 {
 	width: 217px;
 	height: 215px;
-	background: url('../images/v13_54.png');
+	background: url('../assets/hybro-consumi-35.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -428,7 +428,7 @@ body {
 	left: 759px;
 	overflow: hidden;
 }
-.v13_55 {
+.hybro-consumi-36 {
 	width: 217px;
 	height: 215px;
 	background: rgba(237, 247, 255, 1);
@@ -443,7 +443,7 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v13_56 {
+.hybro-consumi-37 {
 	width: 68px;
 	color: rgba(39, 85, 117, 1);
 	position: absolute;
@@ -455,10 +455,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_57 {
+.hybro-consumi-38 {
 	width: 50px;
 	height: 50px;
-	background: url('../images/v13_57.png');
+	background: url('../assets/hybro-consumi-38.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -468,7 +468,7 @@ body {
 	left: 140px;
 	overflow: hidden;
 }
-.v13_58 {
+.hybro-consumi-39 {
 	width: 50px;
 	height: 50px;
 	background: rgba(255, 255, 255, 1);
@@ -483,7 +483,7 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v13_59 {
+.hybro-consumi-40 {
 	width: 25px;
 	color: rgba(39, 85, 117, 1);
 	position: absolute;
@@ -495,10 +495,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_60 {
+.hybro-consumi-41 {
 	width: 76px;
 	height: 76px;
-	background: url('../images/v13_60.png');
+	background: url('../assets/hybro-consumi-41.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -508,10 +508,10 @@ body {
 	left: 823px;
 	overflow: hidden;
 }
-.v13_61 {
+.hybro-consumi-42 {
 	width: 63px;
 	height: 65px;
-	background: url('../images/v13_61.png');
+	background: url('../assets/hybro-consumi-42.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -522,10 +522,10 @@ body {
 	transform: rotate(-149deg);
 	overflow: hidden;
 }
-.v13_62 {
+.hybro-consumi-43 {
 	width: 13px;
 	height: 13px;
-	background: url('../images/v13_62.png');
+	background: url('../assets/hybro-consumi-43.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -535,7 +535,7 @@ body {
 	left: 938px;
 	overflow: hidden;
 }
-.v13_63 {
+.hybro-consumi-44 {
 	width: 13px;
 	height: 13px;
 	background: rgba(178, 226, 255, 1);
@@ -545,7 +545,7 @@ body {
 	left: 0px;
 	border-radius: 50%;
 }
-.v13_64 {
+.hybro-consumi-45 {
 	width: 9px;
 	height: 9px;
 	background: rgba(159, 219, 243, 1);
@@ -555,10 +555,10 @@ body {
 	left: 3px;
 	border-radius: 50%;
 }
-.v13_65 {
+.hybro-consumi-46 {
 	width: 13px;
 	height: 13px;
-	background: url('../images/v13_65.png');
+	background: url('../assets/hybro-consumi-46.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -568,7 +568,7 @@ body {
 	left: 943px;
 	overflow: hidden;
 }
-.v13_66 {
+.hybro-consumi-47 {
 	width: 13px;
 	height: 13px;
 	background: rgba(178, 226, 255, 1);
@@ -578,7 +578,7 @@ body {
 	left: 0px;
 	border-radius: 50%;
 }
-.v13_67 {
+.hybro-consumi-48 {
 	width: 9px;
 	height: 9px;
 	background: rgba(159, 219, 243, 1);
@@ -588,10 +588,10 @@ body {
 	left: 1px;
 	border-radius: 50%;
 }
-.v13_68 {
+.hybro-consumi-49 {
 	width: 217px;
 	height: 215px;
-	background: url('../images/v13_68.png');
+	background: url('../assets/hybro-consumi-49.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -601,7 +601,7 @@ body {
 	left: 246px;
 	overflow: hidden;
 }
-.v13_69 {
+.hybro-consumi-50 {
 	width: 217px;
 	height: 215px;
 	background: rgba(237, 247, 255, 1);
@@ -616,10 +616,10 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v13_70 {
+.hybro-consumi-51 {
 	width: 78px;
 	height: 78px;
-	background: url('../images/v13_70.png');
+	background: url('../assets/hybro-consumi-51.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -629,7 +629,7 @@ body {
 	left: 73px;
 	overflow: hidden;
 }
-.v13_71 {
+.hybro-consumi-52 {
 	width: 134px;
 	color: rgba(39, 85, 117, 1);
 	position: absolute;
@@ -641,10 +641,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_72 {
+.hybro-consumi-53 {
 	width: 50px;
 	height: 50px;
-	background: url('../images/v13_72.png');
+	background: url('../assets/hybro-consumi-53.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -654,7 +654,7 @@ body {
 	left: 151px;
 	overflow: hidden;
 }
-.v13_73 {
+.hybro-consumi-54 {
 	width: 50px;
 	height: 50px;
 	background: rgba(255, 255, 255, 1);
@@ -669,7 +669,7 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v13_74 {
+.hybro-consumi-55 {
 	width: 25px;
 	color: rgba(39, 85, 117, 1);
 	position: absolute;
@@ -681,10 +681,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_75 {
+.hybro-consumi-56 {
 	width: 105px;
 	height: 50px;
-	background: url('../images/v13_75.png');
+	background: url('../assets/hybro-consumi-56.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -695,7 +695,7 @@ body {
 	overflow: hidden;
 }
 
-.v13_76 {
+.hybro-consumi-57 {
 	width: 102px;
 	text-align: center;
 	color: rgba(39, 85, 117, 1);
@@ -707,10 +707,10 @@ body {
 	font-size: 30px;
 	opacity: 1;
 }
-.v13_77 {
+.hybro-consumi-58 {
 	width: 105px;
 	height: 50px;
-	background: url('../images/v13_77.png');
+	background: url('../assets/hybro-consumi-58.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -725,10 +725,10 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v13_78 {
+.hybro-consumi-59 {
 	width: 105px;
 	height: 50px;
-	background: url('../images/v13_78.png');
+	background: url('../assets/hybro-consumi-59.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -738,7 +738,7 @@ body {
 	left: 529px;
 	overflow: hidden;
 }
-.v13_79 {
+.hybro-consumi-60 {
 	width: 66px;
 	color: rgba(39, 85, 117, 1);
 	position: absolute;
@@ -750,10 +750,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_80 {
+.hybro-consumi-61 {
 	width: 105px;
 	height: 50px;
-	background: url('../images/v13_80.png');
+	background: url('../assets/hybro-consumi-61.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -768,10 +768,10 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v13_81 {
+.hybro-consumi-62 {
 	width: 105px;
 	height: 50px;
-	background: url('../images/v13_81.png');
+	background: url('../assets/hybro-consumi-62.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -781,7 +781,7 @@ body {
 	left: 787px;
 	overflow: hidden;
 }
-.v13_82 {
+.hybro-consumi-63 {
 	width: 65px;
 	color: rgba(39, 85, 117, 1);
 	position: absolute;
@@ -793,10 +793,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v13_83 {
+.hybro-consumi-64 {
 	width: 105px;
 	height: 50px;
-	background: url('../images/v13_83.png');
+	background: url('../assets/hybro-consumi-64.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -811,10 +811,10 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v14_243 {
+.hybro-consumi-65 {
 	width: 80px;
 	height: 80px;
-	background: url('../images/v14_243.png');
+	background: url('../assets/hybro-consumi-65.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -824,7 +824,7 @@ body {
 	left: 1407px;
 	overflow: hidden;
 }
-.v14_242 {
+.hybro-consumi-66 {
 	width: 80px;
 	height: 80px;
 	background: rgba(237, 247, 255, 1);
@@ -839,10 +839,10 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v14_241 {
+.hybro-consumi-67 {
 	width: 70px;
 	height: 80px;
-	background: url('../images/v14_241.png');
+	background: url('../assets/hybro-consumi-67.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -852,7 +852,7 @@ body {
 	left: 5px;
 	overflow: hidden;
 }
-.v24_309 {
+.hybro-consumi-68 {
 	width: 51px;
 	color: rgba(22, 48, 66, 1);
 	position: absolute;
@@ -864,7 +864,7 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v24_310 {
+.hybro-consumi-69 {
 	width: 11px;
 	color: rgba(22, 48, 66, 1);
 	position: absolute;
@@ -876,7 +876,7 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v24_311 {
+.hybro-consumi-70 {
 	width: 11px;
 	color: rgba(22, 48, 66, 1);
 	position: absolute;

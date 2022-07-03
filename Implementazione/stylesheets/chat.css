@@ -4,10 +4,10 @@
 body {
 	font-size: 14px;
 }
-.v24_272 {
+.hybro-c1 {
 	width: 965px;
 	height: 604px;
-	background: url('../images/v24_272.png');
+	background: url('../assets/hybro-c1.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -17,7 +17,7 @@ body {
 	left: 800px;
 	overflow: hidden;
 }
-.v14_149 {
+.hybro-c2 {
 	width: 965px;
 	height: 604px;
 	background: rgba(223, 241, 251, 1);
@@ -32,7 +32,7 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v14_215 {
+.hybro-c3 {
 	width: 895px;
 	height: 90px;
 	background: rgba(255, 255, 255, 1);
@@ -47,7 +47,7 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v14_216 {
+.hybro-c4 {
 	width: 893px;
 	height: 44px;
 	background: rgba(232, 245, 252, 1);
@@ -56,7 +56,7 @@ body {
 	top: 542px;
 	left: 36px;
 }
-.v14_218 {
+.hybro-c5 {
 	width: 176px;
 	color: rgba(39, 85, 117, 0.6000000238418579);
 	position: absolute;
@@ -68,10 +68,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v14_223 {
+.hybro-c6 {
 	width: 51px;
 	height: 32px;
-	background: url('../images/v14_223.png');
+	background: url('../assets/hybro-c6.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -81,7 +81,7 @@ body {
 	left: 869px;
 	overflow: hidden;
 }
-.v14_219 {
+.hybro-c7 {
 	width: 51px;
 	height: 32px;
 	background: rgba(32, 68, 94, 1);
@@ -95,7 +95,7 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v14_222 {
+.hybro-c8 {
 	width: 19px;
 	height: 16px;
 	background: rgba(227, 238, 252, 1);
@@ -104,10 +104,10 @@ body {
 	top: 8px;
 	left: 17px;
 }
-.v14_256 {
+.hybro-c9 {
 	width: 436px;
 	height: 56px;
-	background: url('../images/v14_256.png');
+	background: url('../assets/hybro-c9.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -117,7 +117,7 @@ body {
 	left: 35px;
 	overflow: hidden;
 }
-.v14_227 {
+.hybro-c10 {
 	width: 421px;
 	height: 56px;
 	background: rgba(198, 214, 246, 1);
@@ -131,7 +131,7 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v14_228 {
+.hybro-c11 {
 	width: 411px;
 	color: rgba(32, 68, 94, 1);
 	position: absolute;
@@ -143,10 +143,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v14_258 {
+.hybro-c12 {
 	width: 359px;
 	height: 56px;
-	background: url('../images/v14_258.png');
+	background: url('../assets/hybro-c12.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -156,7 +156,7 @@ body {
 	left: 35px;
 	overflow: hidden;
 }
-.v14_225 {
+.hybro-c13 {
 	width: 359px;
 	height: 56px;
 	background: rgba(198, 214, 246, 1);
@@ -170,7 +170,7 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v14_230 {
+.hybro-c14 {
 	width: 313px;
 	color: rgba(32, 68, 94, 1);
 	position: absolute;
@@ -182,10 +182,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v14_259 {
+.hybro-c15 {
 	width: 436px;
 	height: 56px;
-	background: url('../images/v14_259.png');
+	background: url('../assets/hybro-c15.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -195,7 +195,7 @@ body {
 	left: 35px;
 	overflow: hidden;
 }
-.v14_224 {
+.hybro-c16 {
 	width: 414px;
 	height: 56px;
 	background: rgba(198, 214, 246, 1);
@@ -209,7 +209,7 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v14_231 {
+.hybro-c17 {
 	width: 411px;
 	color: rgba(32, 68, 94, 1);
 	position: absolute;
@@ -221,10 +221,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v14_257 {
+.hybro-c18 {
 	width: 512px;
 	height: 56px;
-	background: url('../images/v14_257.png');
+	background: url('../assets/hybro-c18.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -234,7 +234,7 @@ body {
 	left: 417px;
 	overflow: hidden;
 }
-.v14_226 {
+.hybro-c19 {
 	width: 512px;
 	height: 56px;
 	background: rgba(32, 68, 94, 1);
@@ -248,7 +248,7 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v14_229 {
+.hybro-c20 {
 	width: 452px;
 	color: rgba(237, 247, 255, 1);
 	position: absolute;
@@ -260,7 +260,7 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v14_234 {
+.hybro-c21 {
 	width: 19px;
 	height: 19px;
 	background: rgba(32, 68, 94, 1);
@@ -269,7 +269,7 @@ body {
 	top: 554px;
 	left: 57px;
 }
-.v14_235 {
+.hybro-c22 {
 	width: 17px;
 	color: rgba(32, 68, 94, 1);
 	position: absolute;
@@ -281,7 +281,7 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v14_236 {
+.hybro-c23 {
 	width: 17px;
 	color: rgba(32, 68, 94, 1);
 	position: absolute;
@@ -293,10 +293,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v14_265 {
+.hybro-c24 {
 	width: 77px;
 	height: 90px;
-	background: url('../images/v14_265.png');
+	background: url('../assets/hybro-c24.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -306,10 +306,10 @@ body {
 	left: 23px;
 	overflow: hidden;
 }
-.v14_283 {
+.hybro-c25 {
 	width: 895px;
 	height: 55px;
-	background: url('../images/v14_283.png');
+	background: url('../assets/hybro-c25.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -319,7 +319,7 @@ body {
 	left: 34px;
 	overflow: hidden;
 }
-.v14_270 {
+.hybro-c26 {
 	width: 895px;
 	height: 54px;
 	background: rgba(255, 255, 255, 1);
@@ -334,7 +334,7 @@ body {
 	border-bottom-right-radius: 5px;
 	overflow: hidden;
 }
-.v14_271 {
+.hybro-c27 {
 	width: 70px;
 	color: rgba(32, 68, 94, 1);
 	position: absolute;
@@ -346,7 +346,7 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v14_272 {
+.hybro-c28 {
 	width: 177px;
 	color: rgba(32, 68, 94, 1);
 	position: absolute;
@@ -358,10 +358,10 @@ body {
 	opacity: 1;
 	text-align: left;
 }
-.v14_278 {
+.hybro-c29 {
 	width: 30px;
 	height: 30px;
-	background: url('../images/v14_278.png');
+	background: url('../assets/hybro-c29.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -371,10 +371,10 @@ body {
 	left: 855px;
 	overflow: hidden;
 }
-.v14_279 {
+.hybro-c30 {
 	width: 30px;
 	height: 30px;
-	background: url('../images/v14_279.png');
+	background: url('../assets/hybro-c30.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -384,7 +384,7 @@ body {
 	left: 0px;
 	overflow: hidden;
 }
-.v14_280 {
+.hybro-c31 {
 	width: 30px;
 	height: 30px;
 	background: rgba(32, 68, 94, 1);
@@ -392,7 +392,7 @@ body {
 	top: 30px;
 	left: 30px;
 }
-.v14_281 {
+.hybro-c32 {
 	width: 15px;
 	height: 15px;
 	background: rgba(32, 68, 94, 1);
@@ -401,10 +401,10 @@ body {
 	top: 7px;
 	left: 7px;
 }
-.v14_282 {
+.hybro-c33 {
 	width: 48px;
 	height: 55px;
-	background: url('../images/v14_282.png');
+	background: url('../assets/hybro-c33.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -414,7 +414,7 @@ body {
 	left: 10px;
 	overflow: hidden;
 }
-.v14_284 {
+.hybro-c34 {
 	width: 45px;
 	color: rgba(32, 68, 94, 1);
 	position: absolute;
