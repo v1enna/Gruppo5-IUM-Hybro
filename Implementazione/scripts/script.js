@@ -1,6 +1,16 @@
 $(document).ready(() => {
 	$('#bot').click(() => window.location.replace('chat.html'));
 
+	$('.a-b').click(() => window.location.replace('articolo.html'));
+
+	$('.e-b').click(() => window.location.replace('evento.html'));
+
+	$('.s-b').click(() => window.location.replace('reports.html'));
+
+	$('.la-b').click(() => window.location.replace('articoli.html'));
+
+	$('.c-b').click(() => window.location.replace('consumi.html'));
+
 	$('#blog').click(() => {
 		if ($('#blog-m').css('display') == 'none')
 			$('#blog-m').css('display', 'flex');
