@@ -398,3 +398,37 @@ main #app {
 	text-align: justify;
 	margin-bottom: 20px;
 }
+
+#blog,
+#eventi,
+#reports {
+	cursor: pointer;
+}
+
+.menu {
+	display: none;
+	flex-flow: column;
+	position: absolute;
+	top: 90px;
+	z-index: 99;
+}
+
+#blog-m {
+	margin-left: 630px;
+}
+
+#eventi-m {
+	margin-left: -195px;
+}
+
+#reports-m {
+	margin-left: -650px;
+}
+
+.menu a {
+	display: block;
+	padding: 10px;
+	background: rgb(13, 49, 78);
+	margin: 0;
+	color: white;
+}

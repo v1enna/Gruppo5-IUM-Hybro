@@ -1,26 +1,52 @@
 <html>
 	<head>
 		<link href="stylesheets/style.css" rel="stylesheet" />
+		<script
+			src="https://code.jquery.com/jquery-3.6.0.js"
+			integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+			crossorigin="anonymous"
+		></script>
 		<script src="scripts/script.js"></script>
-		<title>Hybro - Accesso</title>
+		<title>Hybro</title>
 	</head>
 	<body>
 		<div id="bot"></div>
 		<div id="wave"></div>
 		<nav>
-			<a href=""><img class="logo-nav" src="assets/logo.png" /></a>
-			<a href="reports.html"
+			<a href="index.html"
+				><img class="logo-nav" src="assets/logo.png"
+			/></a>
+			<a id="reports"
 				><div>Segnalazioni <i class="arrow down"></i></div
 			></a>
-			<a href=""
+
+			<div id="reports-m" class="menu">
+				<a href="reports.html">Lista segnalazioni</a>
+				<a href="creaReport.html">Crea segnalazione</a>
+			</div>
+
+			<a id="eventi"
 				><div>Eventi <i class="arrow down"></i></div
 			></a>
-			<a href=""><div>Il mio consumo</div></a>
-			<a href=""
+
+			<div id="eventi-m" class="menu">
+				<a href="eventi.html">Lista eventi</a>
+				<a href="creaEvento.html">Organizza evento</a>
+			</div>
+
+			<a href="consumi.html"><div>Il mio consumo</div></a>
+			<a id="blog"
 				><div class="hovered-nav-el">
 					Blog <i class="arrow down"></i></div
 			></a>
-			<a href=""><div>Supportaci</div></a>
+
+			<div id="blog-m" class="menu">
+				<a href="articoli.html">Articoli</a>
+				<a href="diventaArticolista.html">Diventa articolista</a>
+				<a href="creaArticolo.html">Crea articolo</a>
+			</div>
+
+			<a href="diventaSponsor.html"><div>Supportaci</div></a>
 			<a href="login.html"><div>Accesso</div></a>
 		</nav>
 		<main>
