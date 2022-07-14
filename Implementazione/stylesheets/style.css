@@ -66,6 +66,10 @@ main #app {
 	margin-top: -5px;
 }
 
+.map { 
+	width: 40%;
+}
+
 .make-a-report-page .map {
 	display: flex;
 	flex-flow: column;
@@ -88,6 +92,10 @@ main #app {
 .make-a-report-page {
 	display: flex;
 	flex-flow: row;
+}
+
+.form {
+	margin-bottom: 1000px;
 }
 
 .make-a-report-page .form {
@@ -117,8 +125,34 @@ main #app {
 	padding-bottom: 100px;
 }
 
+.login { 
+	width: 500px;
+
+}
+
 .login-page,
 .divided {
+	
+	flex-flow: row !important;
+	padding: 20px;
+	display: flex;
+	flex-flow: row;
+	color: #0e4b6f;
+	
+}
+
+.dore {
+	flex-flow: row !important;
+
+}
+
+
+.diver {
+	margin-top: 100px;
+	border: 1px solid;
+	border-radius: 5px;
+	border-color:rgb(13, 49, 78);
+	padding: 20px;
 	display: flex;
 	flex-flow: row;
 	color: #0e4b6f;
@@ -148,6 +182,12 @@ main #app {
 	margin-left: 100px;
 }
 
+.right {
+
+	width: 600px;
+	margin-bottom: -95px;
+}
+
 .signup,
 .right {
 	text-align: center;
@@ -171,6 +211,7 @@ main #app {
 }
 
 .button {
+	margin-top: 15px;
 	text-align: center;
 	color: white;
 	background: #216083;
@@ -227,6 +268,7 @@ main #app {
 	background-repeat: no-repeat;
 	background-position: center;
 	flex: 1;
+
 }
 
 .report .report-text {
@@ -267,6 +309,7 @@ main #app {
 }
 
 .report-1 {
+
 	background-image: url('../assets/reports/1.jpg');
 }
 
@@ -316,9 +359,6 @@ main #app {
 	-webkit-transform: rotate(45deg);
 }
 
-.v-divided {
-	flex-flow: column !important;
-}
 
 .placeholder {
 	background-image: url('../assets/placeholder.jpg');
